@@ -1,7 +1,7 @@
 # solitarica bot
 
 Author: Mcgilrod001
-
+solitarica is a solitaire based game with simple mechanics, this program is meant to be fully capable of playing and beating the game
 # TODO
 
 - [ ] impliment ability to detect what cards are present on the board
