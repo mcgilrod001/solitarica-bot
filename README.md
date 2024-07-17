@@ -2,10 +2,11 @@
 
 Author: Mcgilrod001
 
-# project desctiption
+## project desctiption
+
 solitarica is a solitaire based game with simple mechanics, this program is meant to be fully capable of playing and beating the game
 
-# TODO
+## TODO
 
 - [ ] impliment ability to detect what cards are present on the board
 - [ ] impliment ability to detect what cards are in the hand
